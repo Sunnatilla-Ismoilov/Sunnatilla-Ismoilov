@@ -3,7 +3,7 @@
 - 👨‍🎓 Computer Systems
 - 👀 I’m interested in Software development,
 Cryptocurrency, Metaverse
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and Python
 - 📫 sunnatilla.ismailov@gmail.com
 
 <!---
